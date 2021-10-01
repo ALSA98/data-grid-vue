@@ -6,6 +6,7 @@
 - [x] Filters (consistent with reload)
 - [x] Row bookmark/star (consistent with reload)
 - [ ] BST for date filter
+
 and all are configurable!
 
 ### How to run?
